@@ -28,7 +28,7 @@ In this example there are 2 orders and both of them are long positions, furtherm
 
 ## More about this project
 
-I coded this alghoritm for my bachelor degree thesis by the title:'THE ONLINE TRADING WITH CFDs: Why the majority of the traders lose their own money?',
+I coded this alghoritm for my bachelor degree thesis by the title:'THE ONLINE TRADING WITH CFDs: Why the majority of the traders lose their own money?'
 and I used the results of the operativity of this very algorithm to see if some of the strategies described in the technical analysis books can really
 outperform the market.
 So, in conclusion , this project gave further evidences that the online trading is not that simple as the people tends to believe.
