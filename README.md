@@ -31,6 +31,6 @@ In this example there are 2 orders and both of them are long positions, furtherm
 I coded this alghoritm for my bachelor degree thesis by the title:'THE ONLINE TRADING WITH CFDs: Why the majority of the traders lose their own money?'
 and I used the results of the operativity of this very algorithm to see if some of the strategies described in the technical analysis books can really
 outperform the market.
-So, in conclusion , this project gave further evidences that the markets are efficient and that is 
+In conclusion , this project gave further evidences that the markets are efficient and that is 
 virtually impossible to generate a revenue with this type of elementary strategies.
 
