@@ -17,7 +17,7 @@ For the sell orders the conditions are the opposite:
 
 <br>
 
-'''
+
             //Ordine buy:
          
          if(Fast_MA>Slow_MA && rsi<=30 && Close[0]<Close[1]){
@@ -29,7 +29,7 @@ For the sell orders the conditions are the opposite:
          if(Fast_MA<Slow_MA && rsi>=70 && Close[0]>Close[1]){
            OrderSend(Symbol(),1,Lotti,Bid,3,Bid+(StopLoss*pips),Bid-(TakeProfit*pips),NULL,MagicNum,0,Red);  
            }
-'''
+
 <br>
 
 In this graph we can see the trading alghoritm at work in the Eur/Usd cross:
