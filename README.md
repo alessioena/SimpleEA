@@ -1,7 +1,8 @@
 # Rsi / Moving average Expert Advisor
 
 This program is an algorithm (in the trading lingo: Expert Advisor) coded in [mql4](https://docs.mql4.com/) programming language and his purpose
-is to open trading orders in the market following the entry rules of the technical analysis. 
+is to open trading orders in the market following the entry rules of the technical analysis. </br>
+[[full code]](https://github.com/alessioena/SimpleEA/blob/main/RsiMa_EA.mq4) [[executable file]](https://github.com/alessioena/SimpleEA/blob/main/RsiMa_EA.ex4)
 
 In this program I coded the algorithm in order to place a <span style="color:green">buy order</span> in the market when these conditions are satisfied:
 
