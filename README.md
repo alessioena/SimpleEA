@@ -1,6 +1,6 @@
 # Rsi / Moving average Expert Advisor
 
-This program is an algorithm (in the trading lingo: Expert Advisor) coded in mql4 programming language and his purpose
+This program is an algorithm (in the trading lingo: Expert Advisor) coded in [mql4](https://docs.mql4.com/) programming language and his purpose
 is to open trading orders in the market following the entry rules of the technical analysis. 
 
 In this program I coded the algorithm in order to place a <span style="color:green">buy order</span> in the market when these conditions are satisfied:
@@ -46,6 +46,6 @@ In this example there are 2 orders and both of them are long positions, furtherm
 I coded this alghoritm for my bachelor degree thesis by the title:'THE ONLINE TRADING WITH CFDs: Why the majority of the traders lose their own money?'
 and I used the results of the operativity of this very algorithm to see if some of the strategies described in the technical analysis books can really
 outperform the market.
-In conclusion , this project gave further evidences that the markets are efficient and that is 
+In conclusion , this project gave further evidences that the [markets are efficient](https://en.wikipedia.org/wiki/Efficient-market_hypothesis) and that is 
 virtually impossible to generate a revenue with this type of elementary strategies.
 
